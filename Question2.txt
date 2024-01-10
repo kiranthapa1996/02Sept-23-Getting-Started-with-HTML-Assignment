@@ -1,0 +1,29 @@
+HTML comments are used to add notes or annotations to HTML code. 
+These comments are not displayed on the rendered webpage.
+They are primarily intended for developers and designers to provide explanations, 
+reminders, or instructions within the code. 
+
+we use <!--content--> this symbol to give comments in HTML
+
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment-2</title>
+</head>
+<body>
+  <h1>This is my first Webpage</h1> <!--Here h1 tag is used to give the font size little bigger as compare to other fonts that used inside the paragraph tags-->
+  <!--Here p tag is used to form the content of paragraph inside the webpage-->
+  <p>My name is Kiran Kumar Thapa. I am going through webDevelopment Course.<p>
+  
+  <!--'br' tag used to give space in between two lines of the paragraph-->
+  <br>
+</body>
+</html>
+
+
+In the above code example I have used the format of how we use comments in HTML.
